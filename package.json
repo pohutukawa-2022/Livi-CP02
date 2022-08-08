@@ -2,7 +2,7 @@
   "name": "livitaufao-cp02",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "kata.js",
   "scripts": {
     "test": "jest"
   },
